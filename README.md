@@ -1,4 +1,4 @@
-# CRUD-App
+# CRUD-assignment
 
 Welcome to CRUD-Assignment! This is a basic CRUD (Create, Read, Update, Delete) application built using Node.js, Express.js, and MongoDB. It allows you to perform CRUD operations on a collection of items.
 
@@ -51,7 +51,13 @@ npm run start
 
 3. Open Postman or your preferred API testing tool.
 
-4. Test the API endpoints (See [API Endpoints](#api-endpoints) section).
+## Postman Endpoints
+
+[Click here to access the Postman collection JSON file](https://raw.githubusercontent.com/praneshdeshmukh
+/Express-JS/master/crud-assignment.postman_collection.json)
+
+This link will allow you to download the Postman collection JSON file containing all the API endpoints and examples.
+
 
 ## API Endpoints
 
