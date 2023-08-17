@@ -53,8 +53,8 @@ npm run start
 
 ## Postman Endpoints
 
-[Click here to access the Postman collection JSON file](https://raw.githubusercontent.com/praneshdeshmukh
-/Express-JS/master/crud-assignment.postman_collection.json)
+[Click here to access the Postman collection JSON file]
+## https://github.com/praneshdeshmukh/Express-JS/blob/9ac35c5ac96e6f9b672a37d8ab8e7d0d8fb880ab/crud-assignment.postman_collection.json
 
 This link will allow you to download the Postman collection JSON file containing all the API endpoints and examples.
 
