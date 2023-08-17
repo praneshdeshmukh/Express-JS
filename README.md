@@ -39,7 +39,7 @@ Before you begin, ensure you have met the following requirements:
 
 7. Create a `.env` file in the root directory and set your MongoDB connection URI:
 ```javascript
-MONGODB_URI=mongodb+srv://<yourusername>:<yourpassword>@cluster0.zfcokkr.mongodb.net/crudapp
+MONGODB_URI=mongodb+srv://<yourusername>:<yourpassword>@cluster0.zfcokkr.mongodb.net/yourdatabasename
 ```
 
 ## Usage
